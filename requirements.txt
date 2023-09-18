@@ -1,0 +1,5 @@
+telebot
+pandas
+bs4
+subprocess
+schedule
